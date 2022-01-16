@@ -16,7 +16,7 @@ It is a portable, cross-platform command line tool that makes use of modern and 
     <projectSourceUrl>https://github.com/samuel-lucas6/Kryptor</projectSourceUrl>
     <licenseUrl>https://github.com/samuel-lucas6/Kryptor/blob/master/LICENSE</licenseUrl>
     <bugTrackerUrl>https://github.com/samuel-lucas6/Kryptor/issues</bugTrackerUrl>
-    <iconUrl>https://raw.githubusercontent.com/samuel-lucas6/Kryptor-Chocolatey/logo.png</iconUrl>
+    <iconUrl>https://raw.githubusercontent.com/samuel-lucas6/Kryptor-Chocolatey/main/logo.png</iconUrl>
     <packageSourceUrl>https://github.com/samuel-lucas6/Kryptor-Chocolatey</packageSourceUrl>
     <releaseNotes>[Software Changelog](https://www.kryptor.co.uk/changelog)</releaseNotes>
     <copyright>Copyright (C) 2020-2022 Samuel Lucas</copyright>
