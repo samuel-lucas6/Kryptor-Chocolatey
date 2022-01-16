@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
-    <id>kryptor.portable</id>
+    <id>kryptor</id>
     <version>3.1.0</version>
-    <title>Kryptor (Portable)</title>
+    <title>Kryptor</title>
     <summary>A simple, modern, and secure encryption and signing tool that aims to be a better version of age and Minisign.</summary>
     <description>Kryptor is free and open source file encryption and signing software for Windows, Linux, and macOS.
 
@@ -18,7 +18,8 @@ It is a portable, cross-platform command line tool that makes use of modern and 
     <bugTrackerUrl>https://github.com/samuel-lucas6/Kryptor/issues</bugTrackerUrl>
     <iconUrl>https://raw.githubusercontent.com/samuel-lucas6/Kryptor-Chocolatey/main/logo.png</iconUrl>
     <packageSourceUrl>https://github.com/samuel-lucas6/Kryptor-Chocolatey</packageSourceUrl>
-    <releaseNotes>[Software Changelog](https://www.kryptor.co.uk/changelog)</releaseNotes>
+    <releaseNotes>[Software Changelog](https://www.kryptor.co.uk/changelog)
+    [Package Changelog](https://github.com/samuel-lucas6/Kryptor-Chocolatey)</releaseNotes>
     <copyright>Copyright (C) 2020-2022 Samuel Lucas</copyright>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
   </metadata>
