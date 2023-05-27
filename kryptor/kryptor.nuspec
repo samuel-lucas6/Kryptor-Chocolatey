@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>kryptor</id>
-    <version>4.0.1</version>
+    <version>4.1.0</version>
     <title>Kryptor</title>
     <summary>A simple, modern, and secure encryption and signing tool that aims to be a better version of age and Minisign.</summary>
     <description>Kryptor is free and open source file encryption and signing software for Windows, Linux, and macOS.
